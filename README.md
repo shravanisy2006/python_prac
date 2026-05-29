@@ -17,4 +17,4 @@ Topics covered:
 Goal:
 To practice Python consistently and improve problem-solving skills. 
 
-# Codes may not be one of those professional codes or something but the logic is right and also the codes work correctly.
+ Codes may not be one of those professional codes or something but the logic is right and also the codes work correctly.
